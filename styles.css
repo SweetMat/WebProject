@@ -1,0 +1,169 @@
+/*body {
+background-color: #F7ECDE ;
+}
+
+h1 {
+  font-family:monospace;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 650px;
+  margin-right: auto
+
+}
+h4 {
+  font-family:monospace;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 700px;
+  margin-right: auto
+
+}
+p{
+  width:400px;
+  text-align: justify;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+  .logo {
+  width: 100px;
+  position: fixed;
+  display: block;
+  height: auto;
+
+
+}
+
+.go {
+
+  width:30%;
+  border-radius: 30%;
+  height:auto;
+  display: block;
+  position:absolute;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 110px;
+
+
+}
+.p1{
+  display: block;
+  position: absolute;
+  margin-top: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+body{
+  background-color: #A6D1E6;
+ text-align: center;
+}
+
+.nav{
+  position: absolute;
+  width: 250px;
+  height:900px;
+  background-color: #7F5283;
+}
+.logo {
+position: fixed;
+left: 10px;
+width: 5%;
+height: auto;
+
+}
+.manage{
+position: absolute;
+height: 80px;
+width:200px;
+left:1060px;
+
+}
+
+.opa{
+  opacity: .74;
+  color:#3D3C42;
+}
+.acc{
+  position: absolute;
+  top:23px;
+  left: 10px;
+  height: 30px;
+  width:auto;
+
+
+}
+
+
+.secondDiv{
+  position: relative;
+  left:250px;
+  background-color: #FEFBF6;
+  width: 1260px;
+  height:190px;
+
+}
+.fire{
+  position: absolute;
+  left:0;
+  right:0;
+  top: 80px;
+  text-align: center;
+  font-family: "Sacramento";
+
+}
+.water{
+  position: absolute;
+  left:0;
+  right:0;
+  top: 125px;
+  text-align: center;
+  font-family: "Montserrat";
+
+}
+
+.thirdDiv{
+  position:relative;
+  left:250px;
+  background-color: #3D3C42;
+  width: 1260px;
+  height:430px;
+}
+
+.centerPara{
+  position: relative;
+  height: 280px;
+  background-color: #3D3C42;
+  width: 1260px;
+  left:250px;
+}
+
+.go{
+  border-radius: 30%;
+  position: absolute;
+  top: 20px;
+  left:0;
+  right:0;
+  /*top: 250px;*/
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.firstPara{
+  position: absolute;
+  left:0;
+  right:0;
+ color: white;
+  margin-left:370px;
+  margin-right:auto;
+  width: 500px;
+  text-align: justify;
+
+}
+h5{
+  position: absolute;
+  left: 44px;
+  font-family: "Montserrat";
+}
